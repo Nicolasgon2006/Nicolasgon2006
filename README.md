@@ -1,7 +1,7 @@
 # Hola, soy Nicolás 👋
 
 ## 🚀 Sobre mí
-Soy un estudiante de desarrollo web de Galicia, España. Me encanta programar, aprender nuevas tecnologías y compartir conocimientos.
+Soy un estudiante de 2º SMR de Galicia, España. Me encanta programar, aprender nuevas tecnologías y compartir conocimientos.
 
 - 🔭 Actualmente estoy estudiando en IES Ramón Mª Aller Ulloa
 - 🌱 Estoy aprendiendo CSS
