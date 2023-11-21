@@ -12,5 +12,5 @@ Soy un estudiante de desarrollo web de Galicia, España. Me encanta programar, a
 - Herramientas y tecnologías: Visual Studio Code
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub de @Nicolasgon2006](https://github-readme-stats.vercel.app/api?username=@Nicolasgon2006&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub de @Nicolasgon2006](https://github-readme-stats.vercel.app/api?username=Nicolasgon2006&show_icons=true&theme=tokyonight)
 
