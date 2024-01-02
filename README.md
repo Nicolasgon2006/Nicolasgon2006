@@ -5,7 +5,7 @@ Soy un estudiante de 2º SMR de Galicia, España. Me encanta programar, aprender
 
 - 🔭 Actualmente estoy estudiando en IES Ramón Mª Aller Ulloa
 - 🌱 Estoy aprendiendo CSS
-- 📫 Cómo contactarme: ngdobarro06@iesallerulloa.es
+- 📫 Cómo contactarme: nicolasgondob@gmail.com
 
 ## 🛠️ Habilidades
 - Lenguajes de programación: HTML y CSS
