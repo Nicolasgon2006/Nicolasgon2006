@@ -4,12 +4,12 @@
 Soy un estudiante de 2º SMR de Galicia, España. Me encanta montar PCs, aprender nuevas tecnologías y compartir conocimientos.
 
 - 🔭 Actualmente estoy estudiando en IES Ramón Mª Aller Ulloa
-- 🌱 Estoy aprendiendo CSS
+- 🌱 Estoy aprendiendo WordPress
 - 📫 Cómo contactarme: nicolasgondob@gmail.com
 
 ## 🛠️ Habilidades
 - Lenguajes de programación: HTML y CSS
-- Herramientas y tecnologías: Visual Studio Code
+- Herramientas y tecnologías: Visual Studio Code, Moodle y WordPress
 - Nivel Intermedio en montaje de PCs y modificaciones
 
 ## 📈 Estadísticas de GitHub
