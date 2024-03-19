@@ -1,4 +1,4 @@
-[# Hola, soy Nicolás 👋
+# Hola, soy Nicolás 👋
 
 ## 🚀 Sobre mí
 Soy un estudiante de 2º SMR de Galicia, España. Me encanta programar, aprender nuevas tecnologías y compartir conocimientos.
