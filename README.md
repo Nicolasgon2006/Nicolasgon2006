@@ -4,7 +4,7 @@
 Soy un estudiante de 2º SMR de Galicia, España. Me encanta programar, aprender nuevas tecnologías y compartir conocimientos.
 
 - 🔭 Actualmente estoy estudiando en IES Ramón Mª Aller Ulloa
-- 🌱 Estoy aprendiendo WordPress
+- 🌱 Estoy realizando FCT (Formación en Centros de Trabajo)
 - 📫 Cómo contactarme: nicolasgondob@gmail.com
 - 🌐 [Mi página web](https://nicolasgon2006.github.io/portfolio/)
 - 🌐 [Linktree](https://linktr.ee/nicolasgon2006)
